@@ -1,0 +1,5 @@
+- name: João Alberto
+  bio: |
+    Front-end developer with over ten years of experience. I'm made of JavaScript.
+  avatar: ./avatars/joao-alberto.png
+  featured: true
