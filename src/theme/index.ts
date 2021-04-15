@@ -16,6 +16,7 @@ const config = createCss({
     colors: {
       black: "rgb(12, 12, 12)",
       white: "rgb(255, 255, 255)",
+      primary: "rgba(238, 22, 101, .8)",
     },
     fontSizes: {
       1: "12px",

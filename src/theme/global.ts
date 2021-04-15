@@ -7,6 +7,9 @@ const globalStyles = global({
     margin: 0,
     overflow: "auto",
   },
+  "::selection": {
+    background: "$primary",
+  },
 });
 
 export default globalStyles;
