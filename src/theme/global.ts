@@ -9,6 +9,7 @@ const globalStyles = global({
   },
   "::selection": {
     background: "$primary",
+    opacity: 0.5,
   },
 });
 
